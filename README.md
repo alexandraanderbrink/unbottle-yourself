@@ -1,7 +1,14 @@
-#Assignment Unbottle yourself
+#Unbottle yourself
 
-I did this assignment at Monterosa so that I would learn to understand JavaScript more and understand it's logic.
+I did this assignment at Monterosa so that I would learn to understand JavaScript more and understand JavaScript logic.
 
+I choose to use HTML because I am used to work with the markup language. And it was a small project so it seemed to be the obvious choice.
+
+I used Stylus because I like how clean it gets without the curly brackets, semicolons and colons.
+
+And last i used Gulp as my build system because I'm used to working with it and I really enjoy the live reload.
+
+I cloned the development enviroment from WBKD.
 
 # Used frontend-starterkit from WBKD
 
